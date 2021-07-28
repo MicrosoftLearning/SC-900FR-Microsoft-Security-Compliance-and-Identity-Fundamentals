@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Portail d’approbation de services'
     module: 'Module 1, leçon 2 : Décrire les principes de sécurité et de conformité de Microsoft : Découvrir le Portail d’approbation de services'
