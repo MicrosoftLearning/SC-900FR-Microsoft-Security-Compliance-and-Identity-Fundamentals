@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Azure Security Center'
     module: 'Module 3, leçon 2 : Décrire les fonctionnalités des solutions de sécurité Microsoft : Décrire les fonctionnalités de gestion de la sécurité d’Azure'
