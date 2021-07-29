@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Découvrir le workflow de Core eDiscovery'
     module: 'Module 4, leçon 4 : Décrire les fonctionnalités des solutions de conformité Microsoft : Décrire les fonctionnalités eDiscovery et d’audit de Microsoft 365'

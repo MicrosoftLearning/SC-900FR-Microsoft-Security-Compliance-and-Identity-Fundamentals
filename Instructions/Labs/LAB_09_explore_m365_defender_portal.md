@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Découvrir le portail Microsoft 365 Defender'
     module: 'Module 3, leçon 5 : Décrire les fonctionnalités des solutions de sécurité Microsoft : Décrire les fonctionnalités de gestion de la sécurité de Microsoft 365'

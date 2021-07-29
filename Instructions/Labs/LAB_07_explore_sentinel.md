@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Découvrir Azure Sentinel'
     module: 'Module 3, leçon 3 : Décrire les fonctionnalités des solutions de sécurité Microsoft : Décrire les fonctionnalités de sécurité d’Azure Sentinel'

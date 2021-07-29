@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Découvrir la gestion de l’accès conditionnel dans Azure AD'
     module: 'Module 2, leçon 3 : Décrire les fonctionnalités des solutions de gestion des accès et des identités Microsoft : Découvrir les fonctionnalités de gestion des accès d’Azure AD'
