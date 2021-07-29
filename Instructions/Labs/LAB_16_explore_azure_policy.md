@@ -1,14 +1,14 @@
----
+﻿---
 lab:
-    title: 'Découvrir Azure Policy'
+    title: 'Explorer Azure Policy'
     module: 'Module 4, leçon 5 : Décrire les fonctionnalités des solutions de conformité Microsoft : Décrire Azure Policy'
 ---
 
 
-# Labo : Découvrir Azure Policy
+# Labo : Explorer Azure Policy
 
 ## Scénario du labo
-Azure Policy aide à appliquer des normes organisationnelles et à évaluer la conformité à grande échelle. Azure Policy évalue les ressources dans Azure en comparant les propriétés de ces ressources aux règles d’entreprise. Dans ce labo, vous allez commencer par découvrir la page d’arrivée d’Azure Policy. Ensuite, vous allez créer une stratégie et en étudier les effets.
+Azure Policy aide à appliquer des normes organisationnelles et à évaluer la conformité à grande échelle. Azure Policy évalue les ressources dans Azure en comparant les propriétés de ces ressources aux règles d’entreprise. Dans ce labo, vous allez commencer par Explorer la page d’arrivée d’Azure Policy. Ensuite, vous allez créer une stratégie et en étudier les effets.
 
 
 **Durée estimée** : 20-25 minutes
@@ -33,15 +33,15 @@ Azure Policy aide à appliquer des normes organisationnelles et à évaluer la c
 
 1. Revenez à la page d’accueil de la stratégie en sélectionnant **Stratégie** dans le coin supérieur gauche, au-dessus d’ASC Default.
 
-1. Dans le volet de navigation situé à gauche, sélectionnez **Prise en main**.  Différentes options sont disponibles, qui permettent notamment de parcourir les stratégies intégrées et de les attribuer à grande échelle. Vous pouvez fournir à votre environnement des définitions de stratégies personnalisées, recommander l’affectation de stratégies, etc.
+1. Dans le volet de navigation de gauche, sélectionnez **Prise en main**.  Différentes options sont disponibles, qui permettent notamment de parcourir les stratégies intégrées et de les attribuer à grande échelle. Vous pouvez fournir à votre environnement des définitions de stratégies personnalisées, recommander l’affectation de stratégies, etc.
 
-1. Dans le volet de navigation situé à gauche, sélectionnez **Conformité**.  Comme sur la page d’aperçu, vous trouverez l’état de conformité des stratégies mentionnées et/ou des initiatives.  Sur la page de Conformité à la stratégie, vous pouvez également attribuer une stratégie ou une initiative (cet exercice vous sera proposé lors de la prochaine tâche).
+1. Dans le volet de navigation de gauche, sélectionnez **Conformité**.  Comme sur la page d’aperçu, vous trouverez l’état de conformité des stratégies mentionnées et/ou des initiatives.  Sur la page de Conformité à la stratégie, vous pouvez également attribuer une stratégie ou une initiative (cet exercice vous sera proposé lors de la prochaine tâche).
 
-1. Dans le volet de navigation situé à gauche, sélectionnez **Correction**.  Cette page liste les stratégies qui comportent des ressources non conformes.  Si vous en sélectionnez une, vous pouvez déclencher la création d’une tâche corrective.  
+1. Dans le volet de navigation de gauche, sélectionnez **Correction**.  Cette page liste les stratégies qui comportent des ressources non conformes.  Si vous en sélectionnez une, vous pouvez déclencher la création d’une tâche corrective.  
 
-1. Dans le volet de navigation situé à gauche, sous l’édition, sélectionnez **Devoirs**,  qui reprend la stratégie et/ou les devoirs d’initiative en cours. Vous pouvez aussi en créer de nouveaux.  Nous reviendrons à cette opération lors de la tâche suivante.  
+1. Dans le volet de navigation de gauche, sous l’édition, sélectionnez **Devoirs**,  qui reprend la stratégie et/ou les devoirs d’initiative en cours. Vous pouvez aussi en créer de nouveaux.  Nous reviendrons à cette opération lors de la tâche suivante.  
 
-1. Dans le volet de navigation situé à gauche, sélectionnez **Définitions**,  puis **Machines d’audit au mot de passe non sécurisé**.  Cette définition d’initiative comporte de nombreuses stratégies.  Pour vous familiariser avec les définitions de stratégies, sélectionnez **Audit des machines Windows qui n’ont pas l’antériorité maximale du mot de passe définie sur 70 jours**.  À l’ouverture de la page, la définition de la stratégie apparaît avec une structure JSON (Java Script Object Notation).   Le texte en rouge vous montre les parties de la définition qui caractérisent le nom d’affichage, la description, les paramètres, les règles de la stratégie, etc. NE TOUCHEZ À RIEN.  
+1. Dans le volet de navigation de gauche, sélectionnez **Définitions**,  puis **Auditer les machines avec des paramètres de sécurité de mot de passe non sécurisés**.  Cette définition d’initiative comporte de nombreuses stratégies.  Pour vous familiariser avec les définitions de stratégies, sélectionnez **Audit des machines Windows qui n’ont pas l’antériorité maximale du mot de passe définie sur 70 jours**.  À l’ouverture de la page, la définition de la stratégie apparaît avec une structure JSON (Java Script Object Notation).   Le texte en rouge vous montre les parties de la définition qui caractérisent le nom d’affichage, la description, les paramètres, les règles de la stratégie, etc. NE TOUCHEZ À RIEN.  
 
 1. Quittez la page Définition de la stratégie grâce au **X** dans le coin supérieur droit.
 
@@ -53,7 +53,7 @@ Azure Policy aide à appliquer des normes organisationnelles et à évaluer la c
 
 1. Ouvrez l’onglet Stratégie - Microsoft Azure.
 
-1. Dans le volet de navigation gauche, sous Création, sélectionnez **Affectations**.
+1. Dans le volet de navigation de gauche, sous Création, sélectionnez **Affectations**.
 
 1. Sélectionnez **Affecter une stratégie** en haut de la page.
 
@@ -83,7 +83,7 @@ Azure Policy aide à appliquer des normes organisationnelles et à évaluer la c
 
 1. Sélectionnez **+ Créer** en haut à gauche de la page.
 
-1. Dans l’onglet De base de l’option Créer un groupe de ressources, l’onglet Abonnement indique Pass Azure - Parrainage : ne le modifiez pas.
+1. Dans l'onglet Informations de base de l’option Créer un groupe de ressources, l’onglet Abonnement indique Pass Azure - Parrainage : ne le modifiez pas.
 
 1. Saisissez **SC900-Labos** dans le champ Groupe de ressources.
 
@@ -115,4 +115,4 @@ Azure Policy aide à appliquer des normes organisationnelles et à évaluer la c
 
 #### Révision
 
-Dans ce labo, vous avez parcouru la page d’arrivée d’Azure Policy. Ensuite, vous avez suivi le processus de création d’une stratégie et en avez étudié les effets.
+Dans ce labo, vous avez parcouru la page d'accueil' d’Azure Policy. Ensuite, vous avez suivi le processus de création d’une stratégie et en avez étudié les effets.

@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Découvrir l’authentification Azure AD avec réinitialisation de mot de passe en libre-service'
     module: 'Module 2, leçon 2 : Décrire les fonctionnalités des solutions de gestion des accès et des identités Microsoft : Décrire les différentes méthodes d’authentification d’Azure AD'

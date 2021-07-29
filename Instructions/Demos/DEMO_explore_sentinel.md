@@ -1,4 +1,4 @@
----
+﻿---
 Demo:
     title: 'Azure Sentinel'
     module: 'Module 3, leçon 3 : Décrire les fonctionnalités des solutions de sécurité Microsoft : Décrire les fonctionnalités de sécurité d’Azure Sentinel'
@@ -14,13 +14,13 @@ Lors de cette démonstration, vous présenterez le processus de création d’un
 
 1. Ouvrez l’onglet du navigateur intitulé **Accueil-Microsoft Azure**.  Si vous avez fermé l’onglet, ouvrez une page du navigateur et saisissez portal.azure.com dans la barre d’adresse. Ensuite, reconnectez-vous.
 
-1. Dans la barre de recherche, dans la barre bleue en haut de la page à côté de là où il est indiqué Microsoft Azure, saisissez **Sentinel**, puis sélectionnez **Azure Sentinel** à partir des résultats de la recherche.
+1. Dans la barre de recherche, dans la barre bleue située en hautde la page, en regard de la mention Microsoft Azure, saisissez **Sentinel**, puis sélectionnez **Azure Sentinel** à partir des résultats de la recherche.
 
 1. Depuis la page Azure Sentinel, sélectionnez **Créer Azure Sentinel**.
 
 1. Depuis la page Ajouter Azure Sentinel à un espace de travail, sélectionnez **Créer un nouvel espace de travail**.
 
-1. À partir de l’onglet de base de l’espace de travail Créer un journal d’analyses, saisissez les informations suivantes :
+1. sous l’onglet de base de l’espace de travail Créer un journal d’analyses, saisissez les informations suivantes :
     1. Abonnement :  **Pass Azure - Parrainage**
     1. Groupe de ressources : sélectionnez **Créer un nouveau**, puis saisissez le nom **SC900-Sentinel-RG** et sélectionnez **OK**.
     1. Nom : **SC900-LogAnalytics-workspace**.
@@ -41,7 +41,7 @@ Lors de cette démonstration, vous présenterez le processus de création d’un
 
 #### Partie 2 de la démonstration :  Avec la création de l’instance Azure Sentinel, vous voudrez vous assurer que vous avez les accès nécessaires aux ressources qui sont déployées pour prendre en charge Azure Sentinel.  Pour cette tâche, vous vous rendrez sur la page de contrôle d’accès (IAM) pour le groupe de ressources que vous avez créé avec l’instance d’Azure Sentinel, vous afficherez les rôles disponibles et vous vous attribuerez le rôle nécessaire (administrateur MOD). Assigner le rôle pour le niveau de groupe de ressources garantira que le rôle s’applique à toutes les ressources qui sont déployées pour prendre en charge Azure Sentinel.
 
-1. Dans la barre de recherche, dans la barre bleue en haut de la page à côté de là où il est indiqué Microsoft Azure, saisissez **groupes de ressources**, puis sélectionnez **Groupes de ressources** à partir des résultats de la recherche.
+1. Dans la barre de recherche, dans la barre bleue située en hautde la page, en regard de la mention Microsoft Azure, saisissez **groupes de ressources**, puis sélectionnez **Groupes de ressources** à partir des résultats de la recherche.
 
 1. Depuis la page des groupes de ressources, sélectionnez le groupe de ressources que vous avez créé avec Azure Sentinel, **SC900-Sentinel-RG**.
 
@@ -61,7 +61,7 @@ Lors de cette démonstration, vous présenterez le processus de création d’un
 
 #### Partie 3 de la démonstration :  Dans cette partie de la démonstration, vous expliquerez le processus pour connecter Azure Sentinel à votre source de données pour commencer à collecter des données.  Remarque : le statut connecté d’un connecteur peut prendre un moment avant de s’afficher (environ 30 minutes selon le locataire).
 
-1. Dans la barre de recherche, dans la barre bleue en haut de la page à côté de là où il est indiqué Microsoft Azure, saisissez **Sentinel**, puis sélectionnez **Azure Sentinel** à partir des résultats de la recherche.
+1. Dans la barre de recherche, dans la barre bleue située en hautde la page, en regard de la mention Microsoft Azure, saisissez **Sentinel**, puis sélectionnez **Azure Sentinel** à partir des résultats de la recherche.
 
 1. Depuis la page Azure Sentinel, sélectionnez l’espace de travail que vous avez créé avec l’instance d’Azure Sentinel, **SC900-LogAnalytics-workspace**.
 
@@ -71,7 +71,7 @@ Lors de cette démonstration, vous présenterez le processus de création d’un
 
 1. La fenêtre de connecteur Azure Active Directory s’ouvre.  Sélectionnez **Ouvrir la page du connecteur**.
 
-1. Depuis la page du connecteur Azure Active Directory, examinez la description et remarquez le contenu associé. Cela comprend les classeurs, les requêtes et les modèles de règles d’analyse.  
+1. Depuis la page du connecteur Azure Active Directory, examinez la description et remarquez le contenu associé. Cela comprend les classeurs, les requêtes et les Modèles de règles d’analyse.  
 
 1. L’onglet des instructions de la fenêtre principale fournit les conditions requises pour qu’Azure Sentinel s’intègre à Azure Active Directory.   Sous configuration, sélectionnez **Journaux de connexion**, puis Appliquer les modifications (plusieurs connecteurs peuvent être choisis).  Remarque : le statut connecté du connecteur peut prendre un moment avant de s’afficher (environ 30 minutes).  Pour référence :
     1. Passez en revue les autorisations dans Azure Sentinel :  https://docs.microsoft.com/fr-fr/azure/sentinel/roles
@@ -79,7 +79,7 @@ Lors de cette démonstration, vous présenterez le processus de création d’un
 
 1. Depuis l’onglet Étapes suivantes, notez la liste de classeurs recommandés.   Sous classeurs recommandés, sélectionnez **Journaux de connexion Azure** (des classeurs supplémentaires peuvent être choisis).
 
-1. Depuis la page des classeurs et avec l’onglet modèles sélectionné (souligné), sélectionnez **Journaux de connexion Azure**.
+1. Depuis la page des classeurs et avec l’onglet Modèles sélectionné (souligné), sélectionnez **Journaux de connexion Azure**.
 
 1. Depuis la fenêtre Journaux de connexion Azure AD qui s’ouvre, examinez la description et sélectionnez **Afficher le modèle**.  Fermez le modèle en sélectionnant le **X** en haut à droite de l’écran.  Sélectionnez **Enregistrer** en bas de la page, puis sélectionnez **OK** pour enregistrer le classeur à l’emplacement par défaut.
 
@@ -97,7 +97,7 @@ Lors de cette démonstration, vous présenterez le processus de création d’un
 
 1. Dans le volet de navigation à gauche, sélectionnez **Analyse**.
 
-1. La page Analyse affiche les règles actives (la détection avancée des attaques multiphases est activée par défaut) et permet d’accéder aux modèles de règle.  Sélectionnez l’onglet **Modèles de règle**.  Notez la liste des modèles disponibles et les différentes façons de filtrer la liste.  Les alertes d’analyse intégrées au sein de l’espace de travail Azure Sentinel vous informent en cas d’activité suspecte.
+1. La page Analyse affiche les règles actives (la détection avancée des attaques multiphases est activée par défaut) et permet d’accéder aux Modèles de règle.  Sélectionnez l’onglet **Modèles de règle**.  Notez la liste des Modèles disponibles et les différentes façons de filtrer la liste.  Les alertes d’analyse intégrées au sein de l’espace de travail Azure Sentinel vous informent en cas d’activité suspecte.
 
 1. Dans la barre de recherche, saisissez **Portail Azure**.  Sélectionnez **Échec des tentatives de connexions au portail Azure**.  
 
@@ -105,7 +105,7 @@ Lors de cette démonstration, vous présenterez le processus de création d’un
     1. Depuis l’assistant Règle d’analyse, examinez les informations, puis sélectionnez **Suivant : Définir la logique de la règle >**.
     1. C’est sur la page Définir la logique de la règle que vous définissez la logique pour votre nouvelle règle d’analyse. Le modèle fournit déjà une certaine logique et des paramètres prédéfinis.  Faites défiler la page pour voir les paramètres disponibles.  Conservez les paramètres par défaut. Sélectionnez **Suivant : Paramètres d’incident (préversion) >**.
     1. Avec les paramètres d’incident, les alertes Azure Sentinel peuvent être regroupées en un incident qui doit être examiné. Vous pouvez définir si les alertes qui sont déclenchées par cette règle d’analyse doivent générer des incidents ou non.  Conservez les paramètres par défaut et sélectionnez **Suivant : Réponse automatisée >**.
-    1. Dans l’onglet Réponse automatisée, remarquez comment vous pouvez ajouter un playbook pour automatiser la réponse.  De la même façon, vous pouvez créer une règle d’automatisation d’incident.  Sélectionnez **+ Ajouter** une nouvelle sous l’automatisation d’incident.  Une fenêtre pour créer une nouvelle règle d’automatisation s’ouvre.  Toutes les règles d’automatisation que vous créez sur cette page sont déclenchées par la règle d’analyse que vous   Remarquez que vous pouvez ajouter des conditions et définir des actions pour la règle.   Cliquez sur **Annuler** pour quitter la fenêtre.
+    1. Sous l’onglet Réponse automatisée, remarquez comment vous pouvez ajouter un playbook pour automatiser la réponse.  De la même façon, vous pouvez créer une règle d’automatisation d’incident.  Sélectionnez **+ Ajouter** une nouvelle sous l’automatisation d’incident.  Une fenêtre pour créer une nouvelle règle d’automatisation s’ouvre.  Toutes les règles d’automatisation que vous créez sur cette page sont déclenchées par la règle d’analyse que vous   Remarquez que vous pouvez ajouter des conditions et définir des actions pour la règle.   Cliquez sur **Annuler** pour quitter la fenêtre.
     1. Sélectionnez **Suivant : Révision>** pour revoir tous les détails associés à la règle et basés sur le modèle choisi. Vous pouvez maintenant choisir de créer la règle en sélectionnant **Créer** ou quitter sans créer de règle en sélectionnant le **X** en haut à droite de la page.
 
 1. Laissez cette page ouverte, vous en aurez besoin pour la tâche suivante.

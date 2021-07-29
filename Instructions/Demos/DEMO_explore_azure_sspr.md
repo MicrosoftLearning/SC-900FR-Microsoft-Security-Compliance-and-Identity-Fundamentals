@@ -1,4 +1,4 @@
----
+﻿---
 Demo:
     title: 'Réinitialisation de mot de passe en libre-service dans Azure Active Directory'
     module: 'Module 2, leçon 2 : Décrire les fonctionnalités des solutions de gestion des accès et des identités Microsoft : Décrire les différentes méthodes d’authentification d’Azure AD'
@@ -23,11 +23,11 @@ Cette démonstration vous permettra de parcourir les divers paramètres associé
     1. Survolez l’icône d’information près de l’intitulé « Nombre de méthodes nécessaires à la réinitialisation » avec votre curseur.  Expliquez que cette option permet de définir le nombre de méthodes d’identification alternatives qu’un utilisateur dans ce répertoire doit disposer pour réinitialiser son mot de passe.   Ne modifiez pas ce paramètre.
     1. Expliquez les différentes « méthodes à la disposition des utilisateurs » et précisez notamment que SSPR prend en charge les questions de sécurité. Sélectionnez Questions de sécurité pour afficher les options d’utilisation des questions de sécurité. Une fois vos explications à ce propos terminées, revenez en arrière et sélectionnez Questions de sécurité afin de retirer la coche.
 
-1. Dans le volet de navigation gauche de la réinitialisation de mot de passe, sélectionnez Enregistrement.
+1. Dans le volet de navigation de gauche de la réinitialisation de mot de passe, sélectionnez Enregistrement.
     1. Survolez l’icône d’information près de l’intitulé « Exiger l’enregistrement des utilisateurs lors de leur connexion » avec votre curseur.   Expliquez cela aux utilisateurs.  
     1. Survolez l’icône d’information près de l’intitulé « Nombre de jours avant que les utilisateurs ne doivent confirmer de nouveau leurs informations d’authentification » avec votre curseur.   Expliquez cela aux utilisateurs.  
 
-1. Dans le volet de navigation gauche de la réinitialisation de mot de passe, sélectionnez Notifications.  Survolez l’icône d’information avec votre curseur pour obtenir une description et expliquez les deux paramètres.
+1. Dans le volet de navigation de gauche de la réinitialisation de mot de passe, sélectionnez Notifications.  Survolez l’icône d’information avec votre curseur pour obtenir une description et expliquez les deux paramètres.
 
 1. Prenez note de la manière dont le volet de navigation de la réinitialisation de mot de passe inclut également des options servant à afficher les journaux d’audit ainsi que les informations et données d’utilisation.
 

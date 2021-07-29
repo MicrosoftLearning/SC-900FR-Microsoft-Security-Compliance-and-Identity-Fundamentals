@@ -1,4 +1,4 @@
----
+﻿---
 Demo:
     title: 'Découvrir le Centre de conformité Microsoft 365 et le Gestionnaire de conformité'
     module: 'Module 4, leçon 1 : Décrire les fonctionnalités des solutions de conformité Microsoft : Décrire les fonctionnalités de gestion de la conformité de Microsoft'
@@ -8,7 +8,7 @@ Demo:
 # Démonstration : Découvrir le Centre de conformité Microsoft 365 et le Gestionnaire de conformité
 
 ## Scénario de la démonstration
-Cette démonstration vous permettra de présenter la page d’accueil du Centre de conformité Microsoft 365 ainsi que les manières dont les fonctionnalités du Gestionnaire de conformité aident les organisations à améliorer leur situation de sécurité.
+Cette démonstration vous permettra de présenter la page d’accueil du Centre de conformité Microsoft 365 ainsi que les manières dont les fonctionnalités du Gestionnaire de conformité permettent aux organisations d’améliorer leur état de sécurité.
 
 ## Instructions
 
@@ -34,7 +34,7 @@ Cette démonstration vous permettra de présenter la page d’accueil du Centre 
 
 1. En tant qu’administrateur de conformité, vous souhaitez peut-être qu’un certain ensemble de solutions que vous gérez pour votre organisation soit répertorié en permanence dans le volet de navigation.  Pour personnaliser vos préférences, sélectionnez **Personnaliser la navigation**.  
 
-1. Dans la fenêtre Personnaliser votre volet de navigation, sélectionnez les éléments que vous souhaitez voir affichés et annulez la sélection des éléments que vous ne souhaitez pas voir affichés.  Cliquez sur **Enregistrer** en bas de la fenêtre.  Vous remarquerez que la section des solutions du volet de navigation a été mise à jour.
+1. Dans la fenêtre Personnaliser votre volet de navigation, sélectionnez les éléments que vous souhaitez afficher et annulez la sélection des éléments que vous ne souhaitez pas afficher.  Cliquez sur **Enregistrer** en bas de la fenêtre.  Vous remarquerez que la section des solutions du volet de navigation a été mise à jour.
 
 1. Laissez cet onglet du navigateur ouvert.
 
@@ -65,4 +65,4 @@ Cette démonstration vous permettra de présenter la page d’accueil du Centre 
 1. Dans le volet de navigation gauche, cliquez sur **Accueil** pour revenir à la page d’accueil du Centre de conformité Microsoft 365.  Gardez cette page du navigateur ouverte pour la prochaine démonstration.
 
 #### Révision
-Cette démonstration vous a permis de présenter la page d’accueil du Centre de conformité Microsoft 365 ainsi que les manières dont les fonctionnalités du Gestionnaire de conformité aident les organisations à améliorer leur situation de sécurité.
+Cette démonstration vous a permis de présenter la page d’accueil du Centre de conformité Microsoft 365 ainsi que les manières dont les fonctionnalités du Gestionnaire de conformité permettent aux organisations d’améliorer leur état de sécurité.

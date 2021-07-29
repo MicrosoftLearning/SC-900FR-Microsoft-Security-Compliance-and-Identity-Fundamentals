@@ -1,4 +1,4 @@
----
+﻿---
 Demo:
     title: 'Étiquettes de confidentialité dans Microsoft 365'
     module: 'Module 4, leçon 2 : Décrire les fonctionnalités des solutions de conformité Microsoft : Décrire les fonctionnalités de protection et de gouvernance des informations de Microsoft 365'
@@ -26,7 +26,7 @@ Lors de cette démonstration, vous présenterez les fonctionnalités des étique
 
 1. Dans le volet de navigation à gauche du Centre de conformité Microsoft 365, sélectionnez **Tout afficher**.
 
-1. Dans le volet de navigation à gauche, sélectionnez **Protection des données**.
+1. Dans le volet de navigation de gauche, sélectionnez **Protection des données**.
 
 1. La zone d’informations jaune indique que votre organisation n’a pas activé la capacité à traiter du contenu dans des fichiers Office en ligne qui disposent d’étiquettes de confidentialité chiffrées appliquées et qui sont enregistrées dans OneDrive et SharePoint.  Sélectionnez Activer maintenant.  Une fois activé, il peut y avoir un délai avant que le paramètre ne soit propagé à travers le système.
 
@@ -66,7 +66,7 @@ Lors de cette démonstration, vous présenterez les fonctionnalités des étique
 
 1. Depuis la page de protection des données, sélectionnez l’étiquetage automatique.  Il n’y a pas de stratégie d’étiquetage automatique configurée.  Ne modifiez pas les paramètres.  Si vous vous demandez pourquoi il n’y a pas de stratégie ici, alors que la configuration d’étiquette est définie sur étiquetage automatique pour les fichiers et les e-mails, revenez aux étapes où vous avez parcouru les paramètres de configuration d’étiquette. Passez en revue les descriptions et les zones d’informations associées à l’étiquetage automatique pour les fichiers et les e-mails.  Astuce :  Dans l’onglet d’étiquetage automatique pour le labo de confidentialité, il est indiqué :  « Afin d’appliquer automatiquement cette étiquette aux fichiers qui sont déjà enregistrés (dans SharePoint ou OneDrive) ou aux e-mails qui ont déjà été traités par Exchange, vous devez créer une stratégie d’étiquetage automatique. »
 
-1. Dans le volet de navigation à gauche, sélectionnez Accueil pour retourner au Centre de conformité Microsoft 365.
+1. Dans le volet de navigation de gauche, sélectionnez Accueil pour retourner au Centre de conformité Microsoft 365.
 
 1. Laissez cette page ouverte, vous en aurez besoin pour la tâche suivante.
 

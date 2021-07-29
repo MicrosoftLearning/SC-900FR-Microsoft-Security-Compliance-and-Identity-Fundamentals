@@ -1,4 +1,4 @@
----
+﻿---
 Pre-Demo Setup:
     title: 'Configuration de la démonstration'
 ---
@@ -17,7 +17,7 @@ Lors de cette tâche de configuration, vous utiliserez votre Pass Azure avec les
 1. Sélectionnez le bouton **démarrer** pour commencer.
 
     1. Dans la fenêtre de connexion, saisissez l’adresse e-mail **admin@WWLxZZZZZZ.onmicrosoft.com** (ZZZZZZ représente votre ID de locataire unique fourni par votre fournisseur d’hébergement de labo), puis sélectionnez **Suivant**.
-    1. Saisissez le mot de passe d’administrateur qui doit vous être fourni par votre fournisseur d’hébergement de labo. Sélectionnez **Se connecter**. Si vous êtes invité à rester connecté, sélectionnez **Oui**.
+    1. Saisissez le mot de passe d’administrateur fourni par votre fournisseur d’hébergement de labo. Sélectionnez **Se connecter**. Si vous êtes invité à rester connecté, sélectionnez **Oui**.
     1. Sélectionnez **Confirmer le compte Microsoft** si la bonne adresse e-mail est indiquée.
     1. Saisissez votre code promo dans la barre du code promo et cliquez sur **Réclamer le code promo**.  
     1. Sur la page « Votre profil », conservez toutes les informations par défaut, sélectionnez **J’accepte le contrat d’abonnement, les détails de l’offre, et la déclaration de confidentialité**, puis sélectionnez **S’inscrire**.
@@ -34,16 +34,16 @@ Lors de cette tâche de configuration, vous activerez la fonction de journal d�
 
 1. Connectez-vous avec vos informations d’identification d’administrateur.
     1. Dans la fenêtre de connexion, saisissez **admin@WWLxZZZZZZ.onmicrosoft.com** (ZZZZZZ représente votre ID de locataire unique fourni par votre fournisseur d’hébergement de labo), puis sélectionnez **Suivant**.
-    1. Saisissez le mot de passe d’administrateur qui doit vous être fourni par votre fournisseur d’hébergement de labo. Sélectionnez **Se connecter**.
+    1. Saisissez le mot de passe d’administrateur fourni par votre fournisseur d’hébergement de labo. Sélectionnez **Se connecter**.
     1. Lorsque vous êtes invité à rester connecté, sélectionnez **Oui**. Vous accédez ainsi à la page du Centre d’administration Microsoft 365.
 
 1. Sélectionnez **Tout afficher** dans le volet de navigation gauche du centre d’administration Microsoft 365.
 
 1. Sous les Centres d’administration, sélectionnez **Conformité**.  Le navigateur ouvre une nouvelle page : il s’agit de la page d’accueil du Centre de conformité Microsoft 365.  
 
-1. Dans le volet de navigation à gauche du Centre de conformité Microsoft 365, sélectionnez **Tout afficher**.
+1. Dans le volet de navigation de gauche du Centre de conformité Microsoft 365, sélectionnez **Tout afficher**.
 
-1. Dans le volet de navigation à gauche, sélectionnez **Audit**.  Remarque : la fonctionnalité d’audit est également accessible depuis la page d’accueil de Microsoft 365 Defender.
+1. Dans le volet de navigation de gauche, sélectionnez **Audit**.  Remarque : la fonctionnalité d’audit est également accessible depuis la page d’accueil de Microsoft 365 Defender.
 
 1. Vérifiez que l’onglet **Recherche** est sélectionné (souligné).
 

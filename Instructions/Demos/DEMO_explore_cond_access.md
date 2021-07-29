@@ -1,4 +1,4 @@
----
+﻿---
 Demo:
     title: 'Accès conditionnel dans Azure Active Directory'
     module: 'Module 2, leçon 3 : Décrire les fonctionnalités des solutions de gestion des accès et des identités Microsoft : Découvrir les fonctionnalités de gestion des accès d’Azure AD'
@@ -12,9 +12,9 @@ Cette démonstration vous permettra de parcourir les diverses options disponible
 
 1. Accédez à l’onglet **Contoso - Microsoft Azure** ouvert dans votre navigateur. Si vous avez fermé l’onglet, ouvrez une page du navigateur et saisissez portal.azure.com dans la barre d’adresse. Ensuite, sélectionnez Azure Active Directory. Vous devriez être connecté en tant qu’administrateur dans le portail Azure : si ce n’est pas le cas, reconnectez-vous.
 
-1. Dans le volet de navigation gauche, sélectionnez **Sécurité**.
+1. Dans le volet de navigation de gauche, sélectionnez **Sécurité**.
 
-1. Dans le volet de navigation gauche, sélectionnez **Accès conditionnel**.
+1. Dans le volet de navigation de gauche, sélectionnez **Accès conditionnel**.
 
 1. L’écran des stratégies d’accès conditionnel s’affiche. Toutes les stratégies d’accès conditionnel sont répertoriées ici. Sélectionnez **+ Nouvelle stratégie** pour afficher les paramètres associés à l’accès conditionnel.
 

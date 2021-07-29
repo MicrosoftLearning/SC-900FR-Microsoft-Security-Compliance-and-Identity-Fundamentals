@@ -1,4 +1,4 @@
----
+﻿---
 Demo:
     title: 'Groupes de sécurité réseau Azure'
     module: 'Module 3, leçon 1 : Décrire les fonctionnalités des solutions de sécurité Microsoft : Décrire les fonctionnalités de sécurité de base dans Azure'

@@ -1,4 +1,4 @@
----
+﻿---
 Demo:
     title: 'Microsoft Intune'
     module: 'Module 3, leçon 6 : Décrire les fonctionnalités des solutions de sécurité Microsoft : Décrire la sécurité de point de terminaison dans Microsoft Intune'

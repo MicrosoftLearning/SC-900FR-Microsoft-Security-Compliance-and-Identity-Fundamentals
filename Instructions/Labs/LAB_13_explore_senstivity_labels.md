@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Découvrir les étiquettes de confidentialité dans Microsoft 365'
     module: 'Module 4, leçon 2 : Décrire les fonctionnalités des solutions de conformité Microsoft : Décrire les fonctionnalités de protection et de gouvernance des informations de Microsoft 365'

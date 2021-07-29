@@ -1,7 +1,7 @@
----
+﻿---
 Demo:
     title: 'Paramètres utilisateur d’Azure Active Directory'
-    module: 'Module 2, leçon 1 : Décrire les fonctionnalités des solutions de gestion des accès et des identités Microsoft : Découvrir les services et les types d’identités Azure AD'
+    module: 'Module 2, leçon 1 : Décrire les fonctionnalités des solutions de gestion des accès et des identités Microsoft : Explorer les services et les types d’identités Azure AD'
 ---
 
 # Démonstration : Paramètres utilisateur d’Azure Active Directory
@@ -18,15 +18,15 @@ Dans cette démonstration, vous accéderez à Azure Active Directory et parcourr
 
 1. Dans la liste des utilisateurs, sélectionnez **Adele Vance**.
 
-1. Vous remarquerez que **Profil** est sélectionné dans le volet de navigation gauche.  Montrez et expliquez les informations affichées sur la page du profil.
+1. Vous remarquerez que **Profil** est sélectionné dans le volet de navigation de gauche.  Montrez et expliquez les informations affichées sur la page du profil.
 
 1. Dans le volet de navigation de gauche, sélectionnez **Rôles affectés**.  Aucun rôle administratif n’a été affecté à cet utilisateur.  Sélectionnez **+ Ajouter des affectations** en haut de la page pour afficher les types de rôles administratifs disponibles.  N’en ajoutez aucun : fermez simplement la page en cliquant sur le **X** en haut à droite.
 
-1. Dans le volet de navigation gauche, sélectionnez **Groupes**.  Expliquez qu’un utilisateur est membre de plusieurs groupes.  Vous pouvez ici aborder les types de groupes.  Pour ajouter cet utilisateur à d’autres groupes, vous pouvez juste sélectionner **+ Ajouter des appartenances**.  N’ajoutez aucun nouveau groupe : expliquez simplement à quel point il est facile d’ajouter un utilisateur à des groupes existants. Fermez la fenêtre des groupes en cliquant sur le **X** en haut à droite de la page.
+1. Dans le volet de navigation de gauche, sélectionnez **Groupes**.  Expliquez qu’un utilisateur est membre de plusieurs groupes.  Vous pouvez ici aborder les types de groupes.  Pour ajouter cet utilisateur à d’autres groupes, vous pouvez juste sélectionner **+ Ajouter des appartenances**.  N’ajoutez aucun nouveau groupe : expliquez simplement à quel point il est facile d’ajouter un utilisateur à des groupes existants. Fermez la fenêtre des groupes en cliquant sur le **X** en haut à droite de la page.
 
-1. Dans le volet de navigation gauche, sélectionnez **Licences**. Vous remarquerez que des licences Microsoft 365 E5 et EMS ont été affectées à cet utilisateur.  Pour ajouter une licence, sélectionnez **+ Affectations** en haut de la fenêtre principale.  Affichez les licences disponibles pour cet utilisateur. Ne changez RIEN.  Fermez cette fenêtre en cliquant sur le **X** en haut à droite de la page.
+1. Dans le volet de navigation de gauche, sélectionnez **Licences**. Vous remarquerez que des licences Microsoft 365 E5 et EMS ont été affectées à cet utilisateur.  Pour ajouter une licence, sélectionnez **+ Affectations** en haut de la fenêtre principale.  Affichez les licences disponibles pour cet utilisateur. Ne changez RIEN.  Fermez cette fenêtre en cliquant sur le **X** en haut à droite de la page.
 
-1. Dans le volet de navigation gauche, sélectionnez **Appareils**.  Rien ne s’affiche : vous pouvez cependant expliquer que c’est ici que les appareils affectés à l’utilisateur s’afficheraient s’il y en avait.
+1. Dans le volet de navigation de gauche, sélectionnez **Appareils**.  Rien ne s’affiche : vous pouvez cependant expliquer que c’est ici que les appareils affectés à l’utilisateur s’afficheraient s’il y en avait.
 
 1. Dans le volet de navigation de gauche, sélectionnez **Attributions de rôles Azure**.  Expliquez
     1. qu’il s’agit d’un onglet différent de celui des rôles affectés montré auparavant, car l’onglet montré plus tôt était réservé au contrôle d’accès en fonction du rôle dans Azure Active Directory (mettez l’accent sur Active Directory).

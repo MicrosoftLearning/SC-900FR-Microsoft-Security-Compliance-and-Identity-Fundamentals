@@ -1,4 +1,4 @@
----
+﻿---
 Demo:
     title: 'Azure Security Center'
     module: 'Module 3, leçon 2 : Décrire les fonctionnalités des solutions de sécurité Microsoft : Décrire les fonctionnalités de gestion de la sécurité d’Azure'
@@ -8,7 +8,7 @@ Demo:
 
 ### Scénario de la démonstration
 
-Cette démonstration vous permettra de parcourir Azure Security Center et de montrer comment le Niveau de sécurité Azure peut être utilisé pour améliorer la posture de sécurité d’une organisation.
+Cette démonstration vous permettra de parcourir Azure Security Center et de montrer comment le Niveau de sécurité Azure peut être utilisé pour améliorer l’état de sécurité d’une organisation.
 
 1. Ouvrez l’onglet du navigateur intitulé **Accueil-Microsoft Azure**.  Si vous avez fermé l’onglet, ouvrez une page du navigateur et saisissez portal.azure.com dans la barre d’adresse. Ensuite, reconnectez-vous.
 
@@ -48,4 +48,4 @@ Cette démonstration vous permettra de parcourir Azure Security Center et de mon
 
 ## Révision
 
-Cette démonstration vous a permis de parcourir Azure Security Center et de montrer comment le Niveau de sécurité Azure peut être utilisé pour améliorer la posture de sécurité d’une organisation.
+Cette démonstration vous a permis de parcourir Azure Security Center et de montrer comment le Niveau de sécurité Azure peut être utilisé pour améliorer l’état de sécurité d’une organisation.
