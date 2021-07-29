@@ -27,7 +27,7 @@ Dans ce labo, vous allez découvrir certaines fonctionnalités de base de Privil
 
 5. Sélectionnez **Dominic Saucier** dans la liste des utilisateurs.
 
-6. Sélectionnez **Réinitialiser le mot de passe ** en haut de la page. Comme vous ne vous êtes jamais connecté en tant que Dominic, vous ne connaissez pas son mot de passe et devrez le réinitialiser.
+6. Sélectionnez **Réinitialiser le mot de passe** en haut de la page. Comme vous ne vous êtes jamais connecté en tant que Dominic, vous ne connaissez pas son mot de passe et devrez le réinitialiser.
 
 7. À l’ouverture de la fenêtre de réinitialisation du mot de passe, sélectionnez **Réinitialiser le mot de passe**.  IMPORTANT : notez le nouveau mot de passe. Vous en aurez besoin pour vous connecter en tant qu’utilisateur lors d’une tâche ultérieure.
 

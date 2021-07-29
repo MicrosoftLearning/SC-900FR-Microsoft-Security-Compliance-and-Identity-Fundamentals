@@ -42,7 +42,7 @@ Dans ce labo, vous allez suivre le processus d’activation de la réinitialisat
 
 12. Sélectionnez **Annette Varieur** dans la liste des utilisateurs.
 
-13. Sélectionnez **Réinitialiser le mot de passe ** en haut de la page. Comme vous ne vous êtes jamais connecté en tant qu’Annette Varieur, vous devez réinitialiser le mot de passe.
+13. Sélectionnez **Réinitialiser le mot de passe** en haut de la page. Comme vous ne vous êtes jamais connecté en tant qu’Annette Varieur, vous devez réinitialiser le mot de passe.
 
 14. À l’ouverture de la fenêtre de réinitialisation du mot de passe, sélectionnez **Réinitialiser le mot de passe**.  IMPORTANT : notez le nouveau mot de passe. Vous en aurez besoin pour vous connecter en tant qu’utilisateur lors d’une tâche ultérieure.
 
