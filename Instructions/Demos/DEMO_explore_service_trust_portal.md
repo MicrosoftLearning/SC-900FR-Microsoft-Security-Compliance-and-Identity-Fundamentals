@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Portail d’approbation de services'
     module: 'Module 1, leçon 2 : Décrire les principes de sécurité et de conformité de Microsoft : Découvrir le Portail d’approbation de services'
@@ -14,7 +14,7 @@ Lors de cette démonstration, vous présenterez les fonctionnalités et le conte
 
 1. Ouvrez Microsoft Edge.
 
-1. Dans la barre d’adresse, saisissez **https://aks.ms/STP**.  Cela vous mènera à la page d’arrivée du Portail d’approbation de services. Le Portail d’approbation de services contient les détails concernant l’implémentation par Microsoft des contrôles et des processus qui protègent nos services cloud et les données client qu’ils contiennent. 
+1. Dans la barre d’adresse, saisissez **https://aka.ms/STP**.  Cela vous mènera à la page d’arrivée du Portail d’approbation de services. Le Portail d’approbation de services contient les détails concernant l’implémentation par Microsoft des contrôles et des processus qui protègent nos services cloud et les données client qu’ils contiennent. 
 
 1. Pour accéder à certaines ressources du Portail d’approbation de services, vous devez vous connecter en tant qu’utilisateur vérifié avec votre compte de services cloud Microsoft et lire et accepter le contrat de non-divulgation de Microsoft pour les documents de conformité. En haut à droite de la page d’arrivée du Portail d’approbation de services, vous verrez les options pour vous connecter. **Connectez-vous** à l’aide de vos informations d’identification d’administrateur et si l’on vous le demande, sélectionnez **J’accepte** pour accepter le contrat de non-divulgation de Microsoft pour les documents de conformité.
 
