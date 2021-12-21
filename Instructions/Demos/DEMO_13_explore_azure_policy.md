@@ -1,16 +1,16 @@
-﻿---
+---
 Demo:
     title: 'Azure Policy'
     module: 'Module 4, leçon 5 : Décrire les fonctionnalités des solutions de conformité Microsoft : Décrire Azure Policy'
 ---
 
 
-# Démonstration : Azure Policy
+# Démo : Azure Policy
 
 ### Scénario de la démonstration
 Cette démonstration vous accompagnera tout au long du processus de définition d’une stratégie Azure et vous permettra de réaliser l’impact de cette stratégie.
 
-#### Partie 1 de la démonstration : Créer une stratégie afin d’exiger une balise sur un groupe de ressources (indique les étapes de création d’une stratégie à partir d’un modèle).
+#### Partie 1 de la démonstration : Créez une stratégie afin d’exiger une balise sur un groupe de ressources (indique les étapes de création d’une stratégie à partir d’un modèle).
 
 1. Ouvrez Microsoft Edge. Saisissez **portal.microsoft.com** dans la barre d’adresse.  Vous devriez déjà être connecté ; si ce n’est pas le cas, connectez-vous à l’aide de vos informations d’identification d’administrateur.
 
@@ -18,7 +18,7 @@ Cette démonstration vous accompagnera tout au long du processus de définition 
 
 1. Vous avez désormais sous les yeux la présentation de la page Stratégie. Prenez note des informations disponibles sur le tableau de bord.
 
-1. Dans le volet de navigation gauche, sous Création, sélectionnez **Affectations**.  Vous remarquerez qu’il existe déjà une affectation de stratégie. Cliquez sur **ASC par défaut**.  Prenez connaissance du champ de description, qui indique qu’il s’agit de l’ensemble par défaut de stratégies supervisées par Azure Security Center. Cet ensemble a automatiquement été affecté dans le cadre de l’intégration à Security Center. Cette affectation par défaut contient uniquement des stratégies d’audit. Pour plus d’informations, rendez-vous sur : https://aka.ms/ascpolicies-fra.  Revenez à la page des affectations de stratégies en cliquant sur le **X** en haut à droite de la page.
+1. Dans le volet de navigation gauche, sous Création, sélectionnez **Affectations**.  Vous remarquerez qu’il existe déjà une affectation de stratégie. Cliquez sur **ASC par défaut**.  Révision du champ Description. REMARQUE : Le champ Description fait référence à Azure Security Center, qui a été rebaptisé Microsoft Defender pour le cloud.  Revenez à la page des affectations de stratégies en cliquant sur le **X** en haut à droite de la page.
 
 1. Sélectionnez **Affecter une stratégie** en haut de la page.
 
@@ -42,7 +42,7 @@ Cette démonstration vous accompagnera tout au long du processus de définition 
 
 1. Vous vous trouvez désormais sur la page d’accueil des services Azure.  Ne fermez pas cette page, car vous en aurez besoin lors de la prochaine activité.
 
-#### Partie 2 de la démonstration :  Démontrer l’impact de la stratégie en créant un groupe de ressources sans balise, puis ajoutez-lui-en une.
+#### Partie 2 de la démonstration :  Montrez l’impact de la stratégie en créant un groupe de ressources sans balise, puis ajoutez-lui-en une.
 
 1. Sélectionnez **Groupes de ressources** en haut de la page, sous l’intitulé « Services Azure ». Si l’option n’apparaît pas dans la liste, saisissez Groupe de ressources dans la barre de recherche et sélectionnez-la depuis cette zone.
 
@@ -72,4 +72,4 @@ Cette démonstration vous accompagnera tout au long du processus de définition 
 
 #### Révision
 
-Dans cette démonstration, vous avez présenté le processus de définition d’une stratégie Azure ainsi que l’impact de cette stratégie.
+Dans cette démonstration, vous avez montré le processus de définition d’une stratégie Azure ainsi que l’impact de cette stratégie.

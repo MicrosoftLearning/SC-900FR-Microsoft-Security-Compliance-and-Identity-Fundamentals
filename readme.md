@@ -1,4 +1,4 @@
-﻿# SC-900 : Sécurité, conformité et identité Microsoft - Notions fondamentales
+# SC-900 : Sécurité, conformité et identité Microsoft - Notions fondamentales
 
 Ce référentiel comporte des scripts de démonstration et des instructions relatives aux labos pour **SC-900T00 : Sécurité, conformité et identité Microsoft - Notions fondamentales**.  L’utilisation des scripts de démonstration et des labos suppose un accès au locataire WWL M365 Enterprise 2019 SPE_E5 disponible par l’intermédiaire d’un hébergeur de labo autorisé (HLA) et l’utilisation d’un abonnement Azure à l’aide d’un pass Azure.  Le pass Azure permet de s’assurer que l’abonnement Azure est configuré à l’aide des mêmes informations d’identification que le locataire Microsoft 365 fourni par le HLA (c’est-à-dire que le pass Azure est utilisé à l’aide des mêmes informations d’identification que le locataire Microsoft 365).  Vous bénéficiez ainsi d’une expérience plus fluide lorsque vous basculez entre Microsoft 365 et Azure.  Certains scripts de démonstration et instructions de labo peuvent être lancés sur le propre locataire Microsoft 365 et le propre abonnement Azure d’un utilisateur, mais cela n’est pas garanti : certaines fonctionnalités peuvent être désactivées selon l’abonnement personnel de l’utilisateur.
 
@@ -31,7 +31,7 @@ Les interfaces utilisateur de Microsoft 365 et d’Azure sont constamment mises
 
 ## Comment puis-je contribuer ?
 
-- L’instructeur MCT peut soumettre une demande de tirage (pull request) au code ou au contenu dans GitHub. Microsoft et l’auteur du cours trieront et incluront alors le contenu et les modifications du code de labo en fonction des besoins.
+- L’instructeur MCT peut soumettre une demande de tirage (pull request) au code ou au contenu dans le référentiel GitHub. Microsoft et l’auteur du cours trieront et incluront alors le contenu et les modifications du code de labo en fonction des besoins.
 
 - Vous pouvez soumettre des bogues, des changements, des améliorations et des idées.  Vous avez découvert une nouvelle fonctionnalité Azure avant nous ?  Envoyez une nouvelle démonstration !
 
