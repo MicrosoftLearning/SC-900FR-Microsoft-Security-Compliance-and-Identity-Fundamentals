@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Configuration'
 ---
@@ -46,8 +46,6 @@ Lors de cette tâche de configuration, vous activerez la fonction de journal d�
 1. Sélectionnez **Tout afficher** dans le volet de navigation gauche du centre d’administration Microsoft 365.
 
 1. Sous les Centres d’administration, sélectionnez **Conformité**.  Le navigateur ouvre une nouvelle page : il s’agit de la page d’accueil du Centre de conformité Microsoft 365.  
-
-1. Dans le volet de navigation à gauche du Centre de conformité Microsoft 365, sélectionnez **Tout afficher**.
 
 1. Dans le volet de navigation à gauche, sélectionnez **Audit**.  Remarque : la fonctionnalité d’audit est également accessible depuis la page d’accueil de Microsoft 365 Defender (précédemment dénommé Centre de sécurité Microsoft 365).
 

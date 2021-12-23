@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Explorer Azure Policy'
     module: 'Module 4, leçon 5 : Décrire les fonctionnalités des solutions de conformité Microsoft : Décrire Azure Policy'
@@ -23,15 +23,15 @@ Azure Policy aide à appliquer des normes organisationnelles et à évaluer la c
     1. Saisissez le mot de passe d’administrateur qui doit vous être fourni par votre fournisseur d’hébergement de labo. Sélectionnez **Se connecter**.
     1. Lorsque vous êtes invité à rester connecté, sélectionnez **Oui**.
 
-1. Vous vous trouvez maintenant dans le Portail Azure.  En dessous des services Azure, sélectionnez **Stratégie**. La page d’accueil correspondante s’ouvre et vous donne accès à un tableau de bord.  L’étendue des informations que vous voyez correspond au pass Azure que vous utilisez dans le cadre de ce labo.   Prenez note des informations disponibles sur le tableau de bord.
+1. Vous vous trouvez maintenant dans le Portail Azure.  Dans la zone de recherche (la barre bleue en haut de la page près de l’intitulé « Microsoft Azure »), saisissez **stratégie**, puis sélectionnez **Stratégie** dans les résultats de recherche. La page d’accueil correspondante s’ouvre et vous donne accès à un tableau de bord.  L’étendue des informations que vous voyez correspond au pass Azure que vous utilisez dans le cadre de ce labo.   Prenez note des informations disponibles sur le tableau de bord.
 
-1. L’un des éléments, ASC Default (Azure Security Center), demande le pass Azure - Parrainage.   Sélectionnez **ASC Default**.
+1. Un élément, appelé ASC Default, (ASC représentant Azure Security Center, désormais rebaptisé Microsoft Defender pour le cloud), dont le champ d’application est Pass Azure - Parrainage.   Sélectionnez **ASC Default**.
 
-1. En haut de la page, sous Éléments principaux, vous en trouverez le nom et la description, ainsi que d’autres informations importantes.  Lisez la description (positionnez le curseur de votre souris dessus).  
+1. En haut de la page, sous Éléments principaux, vous en trouverez le nom et la description, ainsi que d’autres informations importantes.  Lisez la description (positionnez le curseur de votre souris dessus). REMARQUE : Le champ Description fait référence à Azure Security Center, qui a été rebaptisé Microsoft Defender pour le cloud.
 
-1. Vous constaterez que les informations fournies par le tableau de bord restent à jour afin de refléter l’élément sélectionné, à savoir la définition d’initiative d’ASC Default.  Rappel : une définition d’initiative est une collection de définitions de stratégie qui sont spécialement conçues pour atteindre un objectif global particulier.  Ici, les stratégies concernent l’état de conformité d’Azure Security Center.  Vous pouvez afficher les informations par groupe, par stratégie, par ressource non conforme ou par événement.
+1. Vous constaterez que les informations fournies par le tableau de bord restent à jour afin de refléter l’élément sélectionné, à savoir la définition d’initiative d’ASC Default.  Rappel : une définition d’initiative est une collection de définitions de stratégie qui sont spécialement conçues pour atteindre un objectif global particulier. Vous pouvez afficher les informations par groupe, par stratégie, par ressource non conforme ou par événement.
 
-1. Revenez à la page d’accueil de la stratégie en sélectionnant **Stratégie** dans le coin supérieur gauche, au-dessus d’ASC Default.
+1. Quittez la page ASC et revenez sur la page d’accueil des stratégies en cliquant sur le **X** affiché en haut à droite de la page.
 
 1. Dans le volet de navigation de gauche, sélectionnez **Prise en main**.  Différentes options sont disponibles, qui permettent notamment de parcourir les stratégies intégrées et de les attribuer à grande échelle. Vous pouvez fournir à votre environnement des définitions de stratégies personnalisées, recommander l’affectation de stratégies, etc.
 

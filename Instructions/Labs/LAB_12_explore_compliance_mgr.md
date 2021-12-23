@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Découvrir le Centre de conformité Microsoft 365 et le Gestionnaire de conformité'
     module: 'Module 4, leçon 1 : Décrire les fonctionnalités des solutions de conformité Microsoft : Décrire les fonctionnalités de gestion de la conformité de Microsoft'
@@ -33,27 +33,27 @@ Dans ce labo, vous allez découvrir la page d’accueil du Centre de conformité
 1. Vous pouvez ajouter des cartes en cliquant sur **+ Ajouter des cartes**.  La fenêtre d’ajout de cartes à votre page d’accueil s’ouvre.  Survolez la carte du Catalogue des solutions affichée dans la fenêtre à l’aide de votre curseur et déplacez-la vers la zone de votre écran d’accueil à l’emplacement souhaité.
 1. Dans le volet de navigation situé à gauche de la page d’accueil du Centre de conformité Microsoft 365, vous constaterez que seul le Catalogue s’affiche sous les Solutions.  Sélectionnez alors **[…Afficher tout]**.  Vous remarquerez que toutes les solutions supplémentaires apparaissent sous la section des solutions.  
 1. Sélectionnez **Afficher moins** pour les masquer.
-1. En tant qu’administrateur de conformité, vous souhaitez peut-être qu’un certain ensemble de solutions que vous gérez pour votre organisation soit répertorié en permanence dans le volet de navigation.  Pour personnaliser vos préférences, sélectionnez **Personnaliser la navigation**.  
-1. Dans la fenêtre Personnaliser votre navigation, sélectionnez **Audit**, **Protection contre la perte de données** et **eDiscovery**.  Cliquez sur **Enregistrer** en bas de la fenêtre.  Vous remarquerez que la section des solutions du volet de navigation a été mise à jour.
+1. En tant qu’administrateur de conformité, vous souhaitez peut-être que seules certaines des solutions que vous gérez pour votre organisation soient répertoriées en permanence dans le volet de navigation qui s’affiche. Pour personnaliser vos préférences, sélectionnez **Personnaliser la navigation**.  
+1. La fenêtre Personnaliser votre volet de navigation permet de sélectionner les éléments qui apparaîtront dans le volet de navigation et d’annuler la sélection des éléments que vous ne souhaitez pas afficher dans ce volet. Dans le cadre de ces labos, laissez tous les éléments sélectionnés et cliquez sur **Enregistrer** au bas de la page.  
 1. Laissez cet onglet du navigateur ouvert.
 
 #### Tâche 2 : Découvrez la situation de sécurité de votre organisation par l’intermédiaire du Gestionnaire de conformité.
 
 1. Sélectionnez **Gestionnaire de conformité** dans le volet de navigation gauche du Centre de conformité Microsoft 365.  Vous pouvez aussi sélectionnez Gestionnaire de conformité dans la barre de titre de la carte Gestionnaire de conformité.
 
-1. Vérifiez qu’**Aperçu** est bien sélectionné (souligné) en haut de la page du Gestionnaire de conformité. Faites défiler vers le bas pour consulter l’ensemble des informations disponibles sur la page.  Les informations de cette page comprennent votre score de conformité sous forme de pourcentage. Il est calculé d’après les points que vous avez accumulés et ceux accumulés par la gestion de Microsoft.   Vous verrez les principales actions d’amélioration, les solutions qui influent sur votre score ainsi que le score de conformité répartis selon des catégories ou des évaluations.
+1. Vérifiez que le terme **Aperçu** est bien sélectionné (souligné) en haut de la page du Gestionnaire de conformité. Faites défiler vers le bas pour consulter l’ensemble des informations disponibles sur la page.  Les informations de cette page comprennent votre score de conformité, les points que vous avez accumulés et ceux accumulés par la gestion de Microsoft.   Vous verrez les principales actions d’amélioration, les solutions qui influent sur votre score ainsi que le score de conformité répartis selon des catégories ou des évaluations.
 
-1. Sélectionnez **Actions d’amélioration** en haut de la page de présentation.  Ces actions peuvent améliorer le score de conformité d’une organisation. La mise à jour des points peut prendre jusqu’à 24 heures.  Prenez note des filtres disponibles.
+1. Sélectionnez **Actions d’amélioration** en haut de la page de présentation.  Il s’agit des actions susceptibles d’améliorer le score de conformité de l’organisation. Notez qu’au fur et à mesure des actions d’amélioration, la mise à jour des points peut prendre jusqu’à 24 heures.  Prenez note des filtres disponibles.
 
 1. Sélectionnez **Activer la réinitialisation de mot de passe en libre-service** dans la liste des actions d’amélioration.  Chaque action d’amélioration dispose d’une section Présentation, ainsi que d’une page de détails à partir de laquelle vous pouvez sélectionner la mise en œuvre, le test, les normes et les exigences réglementaires associées, ainsi que les documents.
 
-1. Quittez cette action d’amélioration en cliquant sur le **X** en haut à droite de l’écran.  Vous pouvez aussi cliquer sur **Actions d’amélioration** depuis le fil d’Ariane en haut à gauche de la page.  Vous vous retrouvez alors sur la page des actions d’amélioration.
+1. Pour quitter l’action d’amélioration, cliquez sur **Actions d’amélioration** dans le fil d’Ariane situé en haut à gauche de la page.  Vous vous retrouvez alors sur la page des actions d’amélioration.
 
 1. Cliquez sur **Solutions** en haut de la page. Cette page vous présentera la manière dont les solutions contribuent à votre score et comment vous pouvez encore l’améliorer.
 
 1. Cliquez sur **Évaluations** en haut de la page. Cette page affichera la base de référence de protection des données.  Il s’agit d’une évaluation par défaut fournie par Microsoft dans le Gestionnaire de conformité, destinée à la base de référence de protection des données de Microsoft 365.  Cette évaluation de la base de référence dispose d’un ensemble de contrôles pour des réglementations et des normes clés destinées à la protection et à la gouvernance des données en général. Le Gestionnaire de conformité devient plus utile à mesure que vous créez et gérez vos propres évaluations en vue de répondre aux besoins spécifiques de votre organisation.
 
-1. Sélectionnez **Base de référence de protection des données**.  Prenez note des informations disponibles sur la barre de progression.  Vous pouvez également consulter l’état du contrôle pour cette évaluation, vos actions d’amélioration ainsi que celles de Microsoft.  
+1. Sélectionnez **Base de référence de protection des données**.  Prenez note des informations disponibles sur la barre de progression.  Des informations sont également disponibles dans les contrôles, dans vos actions d’amélioration et dans les actions Microsoft.  
 
 1. Cliquez sur **Évaluation** en haut à gauche de la page (au-dessus du fil d’Ariane, représenté par l’intitulé « Évaluation ») pour revenir à la page des évaluations.  
 
