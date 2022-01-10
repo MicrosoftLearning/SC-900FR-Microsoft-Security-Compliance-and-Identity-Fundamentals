@@ -27,7 +27,7 @@ Dans ce labo, nous allons découvrir Microsoft Defender pour le cloud et apprend
     1. Attribuez-vous le rôle nécessaire pour assurer la visibilité au niveau du locataire.  Sélectionnez **Administrateur de sécurité**, puis **Obtenir l’accès** au bas de la page.
     1. Le message suivant s’affichera probablement : Le groupe d’administration racine n’existe pas.  Conformément à la description, le système créera le groupe pour vous.  La création du groupe peut prendre jusqu’à 15 minutes (mais généralement moins).  Une fois l’accès accordé, sélectionnez **Microsoft Defender pour le cloud** dans le coin supérieur gauche de la page, au-dessus de la mention Obtenir des autorisations, puis actualisez la page de présentation de Microsoft Defender pour le cloud.
 
-1. Les informations affichées en haut de la page incluent le nombre d’abonnements Azure, le nombre de ressources évaluées, le nombre de recommandations actives et les éventuelles alertes de sécurité.  Sur le corps de la page s’affichent des cartes qui représentent le niveau de sécurité, la conformité réglementaire, Insights, Azure Defender, etc.  
+1. Les informations en haut de la page incluent le nombre d’abonnements Azure, le nombre de ressources évaluées, le nombre de recommandations actives et les éventuelles alertes de sécurité.  Sur le corps de la page s’affichent des cartes qui représentent le niveau de sécurité, la conformité réglementaire, Insights, etc.  
 
 1. Sélectionnez **Ressources évaluées** en haut de la page.  (Remarque : cela équivaut sélectionner Inventaire dans le volet de navigation gauche de la page d’accueil de Microsoft Defender pour le cloud.)
     1. Cela vous permet d’accéder à la page **Inventaire** qui affiche le pass Azure correspondant à votre abonnement Azure.  Sélectionnez **Pass Azure - Parrainage**.
@@ -74,3 +74,4 @@ Dans ce labo, nous allons découvrir Microsoft Defender pour le cloud et apprend
 
 #### Révision
 Dans ce labo, vous avez découvert Microsoft Defender pour le cloud et vous avez appris à utiliser le Niveau de sécurité Azure pour améliorer la posture de sécurité de votre organisation.
+

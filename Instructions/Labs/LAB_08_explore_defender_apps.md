@@ -1,14 +1,14 @@
 ---
 lab:
-    title: 'Explorer Microsoft Defender for Cloud Apps'
+    title: 'Décrire Microsoft Defender for Cloud Apps'
     module: 'Module 3, leçon 4 : Décrire les fonctionnalités des solutions de sécurité Microsoft : Décrire la protection contre les menaces avec Microsoft 365 Defender'
 ---
 
 
-# Labo : Explorer Microsoft Defender for Cloud Apps
+# Labo : Décrire Microsoft Defender for Cloud Apps
 
 ## Scénario du labo
-Dans ce labo, vous allez découvrir les possibilités offertes par Microsoft Defender for Cloud Apps.  Vous allez parcourir les informations disponibles sur le tableau de bord de Cloud Discovery, ainsi que les possibilités offertes pour examiner les résultats et contrôler l’impact sur votre organisation par le biais de politiques.  Remarque :  Une organisation doit disposer d’une licence pour pouvoir utiliser Microsoft Defender for Cloud Apps, un service d’abonnement basé sur l’utilisateur. 
+Dans ce labo, vous allez découvrir les possibilités offertes par Microsoft Defender Microsoft Cloud Apps.  Vous allez parcourir les informations disponibles sur le tableau de bord de Cloud Discovery, ainsi que les possibilités offertes pour examiner les résultats et contrôler l’impact sur votre organisation par le biais de politiques.  Remarque :  Une organisation doit disposer d’une licence pour pouvoir utiliser Microsoft Defender for Cloud Apps, un service d’abonnement basé sur l’utilisateur. 
 
 **Durée estimée** : 15-20 minutes
 
@@ -27,7 +27,7 @@ Dans ce labo, vous allez découvrir les possibilités offertes par Microsoft Def
 
 1. En bas du volet de navigation gauche de la page Microsoft 365 Defender, sélectionnez **Autres ressources**.
 
-1. Dans la carte **Microsoft Defender for Cloud Apps**, sélectionnez **Ouvrir**.  Une nouvelle page de navigation s’ouvre sur le tableau de bord de la sécurité des applications cloud.  Notez les cartes d’informations disponibles.  Il est possible que vous ne voyiez pas d’informations sur les cartes, car il s’agit d’un environnement locataire de labo préconfiguré qui n’a pas été utilisé de manière active.  
+1. Sur la carte **Microsoft Defender for Cloud Apps**, sélectionnez **Ouvrir**.  Une nouvelle page de navigation s’ouvre sur le tableau de bord de la sécurité des applications cloud.  Notez les cartes d’informations disponibles.  Il est possible que vous ne voyiez pas d’informations sur les cartes, car il s’agit d’un environnement locataire de labo préconfiguré qui n’a pas été utilisé de manière active.  
 
 1. Dans le volet de navigation de gauche, sélectionnez **Découvrir**, puis, dans la liste déroulante, sélectionnez **Tableau de bord de Cloud Discovery**.  Le tableau de bord inclut une vue d’ensemble des applications découvertes, des catégories d’application, des niveaux de risque, etc.  
     1. En haut de la page de Cloud Discovery, sélectionnez l’onglet **Applications découvertes**.  La fenêtre des applications découvertes fournit un affichage plus détaillé des applications découvertes, y compris le score de risque, le nombre d’utilisateurs, etc.
@@ -72,4 +72,4 @@ Dans ce labo, vous allez découvrir les possibilités offertes par Microsoft Def
 1. Fermez la fenêtre du navigateur.
 
 #### Révision
-Dans ce labo, vous avez découvert les possibilités offertes par Microsoft Defender for Cloud Apps.  Vous avez parcouru les informations disponibles sur le tableau de bord de Cloud Discovery, ainsi que les possibilités offertes pour examiner les résultats et contrôler l’impact sur votre organisation par le biais de politiques.
+Dans ce labo, vous avez découvert les possibilités offertes par Microsoft Defender Microsoft Cloud Apps.  Vous avez parcouru les informations disponibles sur le tableau de bord de Cloud Discovery, ainsi que les possibilités offertes pour examiner les résultats et contrôler l’impact sur votre organisation par le biais de politiques.

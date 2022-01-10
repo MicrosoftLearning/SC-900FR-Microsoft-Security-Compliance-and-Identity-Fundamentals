@@ -18,7 +18,7 @@ Cette démonstration vous permettra de parcourir Microsoft Defender pour le clou
 
 1. Prenez note des informations disponibles sur la page de présentation de Microsoft Defender pour le cloud.  Remarque : Il est possible qu’une zone d’informations bleue s’affiche en haut de la page. Cela signifie que vous consultez des informations limitées.  Ne cliquez pas dessus : traiter cette requête peut prendre jusqu’à 15 minutes et ne change rien au cours de cette démonstration.
 
-1. Les informations en haut de la page incluent le nombre d’abonnements Azure, le nombre de ressources évaluées, le nombre de recommandations actives et les éventuelles alertes de sécurité.  Sur le corps de la page s’affichent des cartes qui représentent le niveau de sécurité, la conformité réglementaire, Insights, Azure Defender, etc.  
+1. Les informations en haut de la page incluent le nombre d’abonnements Azure, le nombre de ressources évaluées, le nombre de recommandations actives et les éventuelles alertes de sécurité.  Sur le corps de la page s’affichent des cartes qui représentent le niveau de sécurité, la conformité réglementaire, Insights, etc.  
 
 1. Sélectionnez **Ressources évaluées** en haut de la page.  (Remarque : cela équivaut sélectionner Inventaire dans le volet de navigation gauche de la page d’accueil de Microsoft Defender pour le cloud.)
     1. Cela vous permet d’accéder à la page **Inventaire** qui affiche le pass Azure correspondant à votre abonnement Azure.  Sélectionnez **Pass Azure - Parrainage**.
@@ -49,3 +49,4 @@ Cette démonstration vous permettra de parcourir Microsoft Defender pour le clou
 ## Révision
 
 Cette démonstration vous permettra de parcourir Microsoft Defender pour le cloud et de montrer comment le Niveau de sécurité Azure peut être utilisé pour améliorer la posture de sécurité d’une organisation.
+
