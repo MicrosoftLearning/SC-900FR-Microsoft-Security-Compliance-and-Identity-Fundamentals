@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Découvrir la gestion des risques internes dans Microsoft 365'
     module: 'Module 4, leçon 3 : Décrire les fonctionnalités des solutions de conformité Microsoft : Décrire les fonctionnalités de gestion des risques internes dans Microsoft 365'
@@ -25,19 +25,19 @@ Ce labo va vous apprendre à paramétrer une stratégie de risque lié aux menac
 
 1. Sélectionnez **Tout afficher** dans le volet de navigation gauche du centre d’administration Microsoft 365.
 
-1. Sous les centres d’administration, sélectionnez **Sécurité**.  Une nouvelle page de navigation s’ouvre sur la page d’accueil du portail Microsoft 365 Defender.  
+1. Sous les Centres d’administration, sélectionnez **Conformité**.  Le navigateur ouvre une nouvelle page : il s’agit de la page d’accueil du Centre de conformité Microsoft 365.  
 
-1. Dans le volet de navigation situé à gauche du portail Microsoft 365 Defender, sélectionnez **Autorisations et rôles**.  Il se peut que vous deviez faire défiler vers le bas pour afficher cette option.
+1. Dans le volet de navigation de gauche du centre de conformité Microsoft 365, Sélectionnez **Autorisations**.
 
-1. Une fois sur la page des Autorisations et rôles, sélectionnez **Rôles** sous **Messagerie et rôles de collaboration**.
+1. Sur la page Autorisations et rôles, sous Centre de conformité, sélectionnez **Rôles**.
 
-1. Dans la barre de recherche, saisissez **Risque interne** avant de sélectionner l’icône de recherche (en forme de loupe).  Vous devriez voir cinq rôles  aux niveaux d’accès différents.  Sélectionnez **Gestion des risques internes**. 
+1. Dans la barre de recherche, saisissez **Risque interne** avant de sélectionner l’icône de recherche (en forme de loupe).  Plusieurs rôles apparaissent.  aux niveaux d’accès différents.  Sélectionnez **Gestion des risques internes**.
 
 1. Dans la fenêtre qui s’affiche, à côté des Membres, sélectionnez **Modifier**.
 
 1. Pour ajouter des membres à ce groupe, sélectionnez **Choisir des membres**,
 
-1. puis **+ Ajouter** en haut de la page.
+1. Sélectionnez **+ Ajouter** en haut de la page.
 
 1. Dans la liste des noms, sélectionnez **Administrateur MOD**, **Megan Bowen**, puis **Ajouter** et **Terminé** en bas de la page.
 
@@ -45,16 +45,14 @@ Ce labo va vous apprendre à paramétrer une stratégie de risque lié aux menac
 
 1. En bas de la fenêtre de gestion des risques internes, sélectionnez **Fermer**.
 
+1. Dans le volet de navigation de gauche, sélectionnez **Accueil** pour retourner à la page du Centre de conformité Microsoft 365.
+
 1. Conservez cet onglet ouvert pour pouvoir y revenir lors d’une prochaine tâche.
 
 
 #### Tâche 2 (PASSEZ si vous avez suivi le labo sur la configuration du journal d’audit) : La gestion des risques internes utilise les journaux d’audit de Microsoft 365 pour recueillir les commentaires et les activités en provenance des utilisateurs et identifiés dans les stratégies et les résultats d’analyse. Dans cette tâche, vous allez activer la fonctionnalité de recherche du Journal d’audit. Remarque :  vous devrez peut-être attendre plusieurs heures après l’activation avant de pouvoir renvoyer les résultats lorsque vous effectuez une recherche dans le journal d’audit.  Même s’il vous faut attendre pour pouvoir consulter ce dernier, vous aurez toujours la possibilité de terminer d’autres tâches de ce labo.
 
-1. Sélectionnez l’onglet nommé **Centre d’administration Microsoft 365 - Accueil**.  Si vous l’avez déjà fermé, ouvrez Microsoft Edge et saisissez **admin.microsoft.com**, puis connectez-vous avec vos informations d’identification d’administrateur.
-
-1. Sous les Centres d’administration, sélectionnez **Conformité**.  Le navigateur ouvre une nouvelle page : il s’agit de la page d’accueil du Centre de conformité Microsoft 365.  
-
-1. Dans le volet de navigation à gauche du Centre de conformité Microsoft 365, sélectionnez **Tout afficher**.
+1. Dans le navigateur, sélectionnez l’onglet **Accueil - Conformité Microsoft 365**.  Si vous l’avez déjà fermé, ouvrez Microsoft Edge et saisissez **admin.microsoft.com**, puis connectez-vous avec vos informations d’identification d’administrateur.
 
 1. Dans le volet de navigation à gauche, sélectionnez **Audit**.
 
@@ -73,12 +71,12 @@ Ce labo va vous apprendre à paramétrer une stratégie de risque lié aux menac
 1. Dans le volet de navigation situé à gauche, sous Solutions, sélectionnez **Gestion des risques internes**.
 
 1. Avant de commencer à élaborer une stratégie, vous devez configurer certains paramètres.  Sur la page de gestion des risques internes, accédez aux paramètres en sélectionnant l’**icône représentant un engrenage**, dans le coin supérieur droit.  
-    1. Onglet Confidentialité :  pour les utilisateurs dont les activités correspondent à vos stratégies de risque lié aux menaces internes, ce paramètre détermine l’affichage ou non de leur véritable identité.  Sélectionnez **Ne pas montrer une version anonyme du nom d’utilisateur**, puis **Enregistrer**.  Allez sur l’onglet **Indicateurs de la stratégie**.
+    1. Vérifiez que vous êtes bien au niveau de l’onglet **Confidentialité** :  pour les utilisateurs dont les activités correspondent à vos stratégies de risque lié aux menaces internes, ce paramètre détermine l’affichage ou non de leur véritable identité.  Sélectionnez **Ne pas montrer une version anonyme du nom d’utilisateur**, puis **Enregistrer**.
     
-    1. Onglet Indicateurs de la stratégie : lorsque survient un événement qui déclenche la stratégie, un score de risque est calculé pour l’utilisateur en fonction des activités reliées aux indicateurs sélectionnés. Ces derniers sont inclus dans les modèles de stratégies de risque lié aux menaces internes.  Faites défiler la page pour afficher tous les indicateurs disponibles et les informations qui y sont associées. Sous **Indicateurs de bureau**, choisissez **Sélectionner tout**, puis **Enregistrer**.  Allez sur l’onglet **Périodes de stratégie**.
-    1. Onglet Périodes de stratégie :  les périodes choisies prennent effet lorsque l’utilisateur déclenche une correspondance avec une stratégie de risque lié aux menaces internes.   La fenêtre d’activation détermine le délai pendant lequel les stratégies s’emploient à détecter l’activité des utilisateurs. Elle apparaît lorsqu’une action et une stratégie correspondent pour la première fois. La détection des activités passées indique à la stratégie jusqu’où remonter pour détecter l’activité de l’utilisateur. Elle apparaît lorsqu’une action et une stratégie correspondent pour la première fois.  Conservez les valeurs par défaut.  Sélectionnez l’onglet **Détections intelligentes**.
-    1. Onglet Détections intelligentes :  examinez les options présentes,  particulièrement les paramètres de domaines et leur relation aux indicateurs.
-    1. Les autres éléments de la liste des paramètres sont des versions préliminaires.  En tant que telles, vous pouvez les découvrir à votre guise en sachant qu’elles seront peut-être modifiées.
+    1. Cliquez sur l’onglet **Indicateurs de la stratégie**. lorsque survient un événement qui déclenche la stratégie, un score de risque est calculé pour l’utilisateur en fonction des activités reliées aux indicateurs sélectionnés. Ces derniers sont inclus dans les modèles de stratégies de risque lié aux menaces internes.  Faites défiler la page pour afficher tous les indicateurs disponibles et les informations qui y sont associées. Sous **Indicateurs de bureau**, choisissez **Sélectionner tout**, puis **Enregistrer**.
+    1. Allez sur l’onglet **Périodes de stratégie**. les périodes choisies prennent effet lorsque l’utilisateur déclenche une correspondance avec une stratégie de risque lié aux menaces internes.   La fenêtre d’activation détermine le délai pendant lequel les stratégies s’emploient à détecter l’activité des utilisateurs. Elle apparaît lorsqu’une action et une stratégie correspondent pour la première fois. La détection des activités passées indique à la stratégie jusqu’où remonter pour détecter l’activité de l’utilisateur. Elle apparaît lorsqu’une action et une stratégie correspondent pour la première fois.  Conservez les valeurs par défaut.  Sélectionnez l’onglet **Détections intelligentes**.
+    1. Sélectionnez l’onglet **Détections intelligentes**. examinez les options présentes,  particulièrement les paramètres de domaines et leur relation aux indicateurs.
+    1. Examinez les autres éléments présentés dans les paramètres et notez que beaucoup d’entre eux sont en version prélimaire.
 
 1. Pour revenir à la vue générale de la gestion des risques internes, sélectionnez **Gestion des risques internes** dans le coin supérieur gauche de la page, au-dessus de Paramètres.
 
@@ -88,7 +86,7 @@ Ce labo va vous apprendre à paramétrer une stratégie de risque lié aux menac
 
 1. Assurez-vous de vous trouver sur la page de gestion des risques internes.  Si ce n’est pas le cas, ouvrez l’onglet nommé **Gestion des risques internes - Conformité Microsoft 365**.
 
-1. Sur la page générale de gestion des risques internes, sélectionnez l’onglet **Stratégies**, puis **+ Créer**.  Configurez chaque onglet suivant.
+1. Sur la page générale de gestion des risques internes, sélectionnez l’onglet **Stratégies**, puis **+ Créer une stratégie**.  Configurez chaque onglet suivant.
 
     1. Modèle de stratégie :  dans la liste des catégories, sélectionnez **Fuites de données**, puis **Fuites de données générales**.  N’oubliez pas que les modèles des catégories peuvent comporter des prérequis supplémentaires.  Lisez les détails du modèle, puis sélectionnez **Suivant**.
     
@@ -98,13 +96,14 @@ Ce labo va vous apprendre à paramétrer une stratégie de risque lié aux menac
         1. Site SharePoint : pour cet exemple de stratégie, ne remplissez rien et sélectionnez **Suivant**.
         1. Types d’informations sensibles : pour cet exemple de stratégie, ne remplissez rien et sélectionnez **Suivant**. 
         1. Étiquettes de confidentialité : sélectionnez **+ Ajouter ou modifier les étiquettes de confidentialité**.  Choisissez les étiquettes suivantes :  **Budget confidentiel** et **Hautement confidentiel\Projet - Falcon**, puis sélectionnez **Ajouter** et **Suivant**.
-    1. Indicateurs et événement de déclenchement : vérifiez les informations détaillées.  La stratégie se déclenche quand l’utilisateur procède à une exfiltration définie (utilisez les icônes d’information pour en savoir plus sur chaque point mentionné) OU quand son activité correspond à une stratégie de protection contre la perte de données (DLP).  Cet exercice ne prévoyant pas de stratégie DLP, sélectionnez **L’utilisateur procède à une exfiltration**.  Faites défiler vers le bas pour voir la sélection automatique.  Vous constaterez que les indicateurs de stratégie activés lors de la tâche précédente sont cochés.   Souvenez-vous que ces indicateurs ne deviennent actifs que lorsque la stratégie se déclenche. Toutes les activités liées sont alors utilisées pour calculer un score de risque pour l’utilisateur.  En parallèle, la détection de séquence s’active.  Si une séquence d’activités est reconnue, il existe peut-être un risque supérieur.  Utilisez l’icône d’information pour en savoir plus sur les indicateurs nécessaires.  Cette sélection demande certains indicateurs spécifiques, ainsi que des appareils intégrés.  Ce n’est le cas d’aucun appareil de ce locataire, alors pour des raisons de facilité, décochez **Sélectionner tout**.  Sélectionnez **Suivant**.
+    1. Déclencheurs : vérifiez les informations détaillées.  La stratégie se déclenche quand l’utilisateur procède à une exfiltration définie (utilisez les icônes d’information pour en savoir plus sur chaque point mentionné) OU quand son activité correspond à une stratégie de protection contre la perte de données (DLP).  Cet exercice ne prévoyant pas de stratégie DLP, sélectionnez **L’utilisateur procède à une exfiltration**.  Vous constaterez que les indicateurs de stratégie activés lors de la tâche précédente sont cochés.   Souvenez-vous que ces indicateurs ne deviennent actifs que lorsque la stratégie se déclenche. Toutes les activités liées sont alors utilisées pour calculer un score de risque pour l’utilisateur. Cliquez sur **Suivant**.
     1. Seuils des indicateurs :  c’est là que vous pouvez associer un seuil par défaut ou personnalisé aux indicateurs.  Souvenez-vous que ces derniers ne deviennent actifs qu’après l’événement déclencheur de stratégie. Les seuils n’ont donc aucune influence en la matière. Sélectionnez **Spécifier des seuils personnalisés**. Cette option vous permet de voir les valeurs par défaut actuelles. Conservez les valeurs par défaut, puis sélectionnez **Suivant**.  
+    1. Indicateurs : Vous constaterez que les indicateurs de stratégie que vous avez sélectionnés lors de la tâche précédente sont sélectionnés.  Faites défiler la page pour afficher les autres indicateurs de politique disponibles, ainsi que les autres éléments qui sont automatiquement sélectionnés.   La détection de séquence est activée.  Si une séquence d’activités est reconnue, il existe peut-être un risque supérieur.  Passez votre souris sur l’icône d’information pour obtenir des informations détaillées.  Cette sélection demande certains indicateurs spécifiques, ainsi que l’intégration de certains appareils.  Ce n’est le cas d’aucun appareil de ce locataire, alors pour des raisons de facilité, désactivez l’option **Sélectionner tout**. 
     1. Terminer :  vérifiez les paramètres avant de sélectionner **Envoyer** et **Terminé**.
 
 1. Vous revenez alors à l’onglet Confidentialité de la page de gestion des risques internes.  La stratégie que vous venez de créer s’affiche,  
 
-1. avec un champ « Utilisateurs concernés » qui représente les utilisateurs actuellement concernés par un score de risque.  Cela n’arrive que lorsque la stratégie est déclenchée, raison pour laquelle vous voyez une valeur de 0.  Un administrateur peut régler les paramètres de façon à ce que des scores de risque soient attribués à certaines personnes, selon l’activité détectée par la stratégie sélectionnée ET en priorité sur un événement déclencheur.  Pour ce faire, sélectionnez le cercle vide près du nom de la stratégie pour la choisir, puis sélectionnez **Commencer à noter l’activité des utilisateurs** au-dessus du tableau.  Une fois tous les champs remplis, sélectionnez **Commencer à noter l’activité**.  L’affichage des utilisateurs dans l’onglet correspondant peut prendre jusqu’à 24 heures. Passé ce délai, vous pouvez consulter les activités détectées de chacun dans cet onglet.
+1. avec un champ « Utilisateurs concernés » qui représente les utilisateurs actuellement concernés par un score de risque.  Cela n’arrive que lorsque la stratégie est déclenchée, raison pour laquelle vous voyez une valeur de 0.  Un administrateur peut régler les paramètres de façon à ce que des scores de risque soient attribués à certaines personnes, selon l’activité détectée par la stratégie sélectionnée ET en priorité sur un événement déclencheur.  Pour ce faire, sélectionnez le cercle vide près du nom de la stratégie pour la choisir, puis sélectionnez **Commencer à noter l’activité des utilisateurs** au-dessus du tableau.  Une fois tous les champs remplis, sélectionnez **Commencer à noter l’activité**.  L’affichage des utilisateurs dans l’onglet correspondant peut prendre jusqu’à 24 heures. Passé ce délai, vous pouvez consulter les activités détectées de chacun dans cet onglet.  Sélectionnez **Fermer** au bas de la fenêtre.
 
 #### Révision
 Ce labo vous a appris à paramétrer une stratégie de risque lié aux menaces internes, ainsi que les prérequis de base pour configurer et utiliser des stratégies de gestion des risques internes.

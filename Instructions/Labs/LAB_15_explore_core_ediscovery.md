@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Explorer le workflow de Core eDiscovery'
     module: 'Module 4, leçon 4 : Décrire les fonctionnalités des solutions de conformité Microsoft : Décrire les fonctionnalités eDiscovery et d’audit de Microsoft 365'
@@ -25,13 +25,13 @@ Dans ce labo, vous allez apprendre à configurer Core eDiscovery et découvrir s
 
 1. Sélectionnez **Tout afficher** dans le volet de navigation gauche du centre d’administration Microsoft 365.
 
-1. Sous les centres d’administration, sélectionnez **Sécurité**.  Une nouvelle page de navigation s’ouvre sur la page d’accueil du portail Microsoft 365 Defender.  
+1. Sous les Centres d’administration, sélectionnez **Conformité**.  Le navigateur ouvre une nouvelle page : il s’agit de la page d’accueil du Centre de conformité Microsoft 365.  
 
-1. Dans le volet de navigation de gauche du portail Microsoft 365 Defender, sélectionnez **Autorisations et rôles**.  Il se peut que vous deviez faire défiler vers le bas pour afficher cette option.
+1. Dans le volet de navigation de gauche, sélectionnez **Autorisations**. 
 
-1. Une fois sur la page des Autorisations et rôles, sélectionnez **Rôles** sous **Messagerie et rôles de collaboration**.
+1. Sur la page Autorisations et rôles, sous Centre de conformité, sélectionnez **Rôles**.
 
-1. Dans la barre de recherche, saisissez **eDiscovery** avant de sélectionner l’icône de recherche (en forme de loupe).  Sélectionnez **Gestionnaire eDiscovery**.
+1. Dans la barre de recherche, saisissez **eDiscovery**, puis sélectionnez l’icône de recherche (en forme de loupe).  Sélectionnez **Gestionnaire eDiscovery**.
 
 1. Dans la fenêtre qui s’affiche, vous pouvez voir deux sous-groupes, Gestionnaire eDiscovery et Administrateur eDiscovery.  Lisez leurs descriptions.  Pour ce labo, nous allons ajouter des membres au sous-groupe Administrateur eDiscovery. Sélectionnez **Modifier** à côté d’Administrateur eDiscovery.  Nous recommandons d’attribuer le privilège minimum pour le rôle des utilisateurs.
 
@@ -45,15 +45,11 @@ Dans ce labo, vous allez apprendre à configurer Core eDiscovery et découvrir s
 
 1. En bas de la fenêtre eDiscovery, sélectionnez **Fermer**.
 
-1. Laissez cet onglet ouvert pour pouvoir y revenir lors d’une prochaine tâche.
+1. Gardez cet onglet de navigateur ouvert, car vous en aurez besoin dans la prochaine tâche.
 
 #### Tâche 2 :  Dans cette tâche, vous allez jouer le rôle d’Administrateur eDiscovery (administrateur MOD est un type d’Administrateur eDiscovery) et créer un dossier pour commencer à utiliser Core eDiscovery.
 
-1. Ouvrez l’onglet du centre d’administration Microsoft 365.
-
-1. Dans le volet de navigation de gauche, sous Centres d’administration, sélectionnez **Conformité**.
-
-1. Vous vous trouvez maintenant dans le Centre de conformité Microsoft 365. Dans le volet de navigation de gauche, sélectionnez **Afficher tout**.
+1. Vous devriez toujours être sur la page des rôles du centre de conformité. Si vous avez fermé l’onglet du navigateur dans la tâche précédente, ouvrez un nouvel onglet de navigateur et entrez **compliance.microsoft.com**
 
 1. Ensuite, sous Solutions, sélectionnez **eDiscovery**, puis **Core**.
 
@@ -61,7 +57,7 @@ Dans ce labo, vous allez apprendre à configurer Core eDiscovery et découvrir s
 
 1. Dans la fenêtre Nouveau dossier, donnez-lui le nom **SC900 Dossier test** avant de sélectionner **Enregistrer** en bas de la page.
 
-1. Le dossier apparaît maintenant dans la liste. 
+1. Le dossier apparaît maintenant dans la liste.
 
 1. Puisque vous l’avez créé et que vous disposez des privilèges d’Administrateur eDiscovery, vous pouvez commencer à y travailler.  
 
@@ -77,7 +73,7 @@ Dans ce labo, vous allez apprendre à configurer Core eDiscovery et découvrir s
 
 1. Dans le champ Nom, saisissez **Conservation test** avant d’utiliser le bouton Suivant.
 
-1. Sur la page Choisir les emplacements, **activez** la messagerie Exchange et sélectionnez **Choisir les utilisateurs, groupes ou équipes**.  Dans la zone de recherche, saisissez **Adele**, puis appuyez sur Entrée. Sélectionnez **Adele Vance** dans les résultats de recherche, puis Choisir et enfin **Terminé**.
+1. Sur la page Choisir l’emplacement, sélectionnez **boîtes aux lettres Exchange**, pour définir l’état sur **Activé**, puis sélectionnez **Choisir les utilisateurs, groupes ou équipes**.  Dans la zone de recherche, saisissez **Adele**, puis appuyez sur Entrée. Sélectionnez **Adele Vance** dans les résultats de recherche, puis Choisir et enfin **Terminé**.
 
 1. Sur la page Choisir les emplacements, sélectionnez **Suivant**.  Dans le cadre du labo, cette conservation ne contiendra aucun autre emplacement.
 
@@ -97,7 +93,7 @@ Dans ce labo, vous allez apprendre à configurer Core eDiscovery et découvrir s
 
 1. Dans le champ Nom, saisissez **Conservation test - Recherches ventes**, puis sélectionnez **Suivant** en bas de la page.
 
-1. Sur la page Choisir les emplacements, **activez** la messagerie Exchange et sélectionnez **Choisir les utilisateurs, groupes ou équipes**.  Dans la zone de recherche, saisissez **Adele**, puis appuyez sur Entrée. Sélectionnez **Adele Vance** dans les résultats de recherche, puis **Terminé** et enfin **Suivant**.  Cette recherche ne contiendra aucun autre emplacement.
+1. Sur la page Choisir l’emplacement, sélectionnez **boîtes aux lettres Exchange**, pour définir le statut sur **Activé**, puis sélectionnez **Choisir les utilisateurs, groupes ou équipes**.  Dans la zone de recherche, saisissez **Adele**, puis appuyez sur Entrée. Sélectionnez **Adele Vance** dans les résultats de recherche, puis **Terminé** et enfin **Suivant**.  Cette recherche ne contiendra aucun autre emplacement.
 
 1. La page des Conditions de requête vous permet de créer une recherche à partir de mots clés ou de conditions spécifiques. Saisissez **Ventes** dans le champ des mots clés, puis sélectionnez **Suivant**.
 
